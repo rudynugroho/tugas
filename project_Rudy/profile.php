@@ -20,14 +20,14 @@
 	<div class="data">
 		<ul type="circle">
 			<h2>Biodata Lengkap</h2>
-			<li>Nama						:Rudy Sucipto Nugroho</li>
+			<li>Nama			:Rudy Sucipto Nugroho</li>
 			<li>Jenis Kelamin		:Laki - Laki</li>
-			<li>Ttl 						:Jakarta , 26 Desember 1995/li>
-			<li>Alamat					:Bekasi</li>
-			<li>Agama 					:Islam</li>
-			<li>Kewarganegaraan :Indonesia</li>
-			<li>No.hp 					:085869257356</li>
-			<li>E-mail 					:rsn@mhs.pelitabangsa.ac.id</li>
+			<li>Ttl 			:Jakarta , 26 Desember 1995/li>
+			<li>Alamat			:Bekasi</li>
+			<li>Agama 			:Islam</li>
+			<li>Kewarganegaraan 		:Indonesia</li>
+			<li>No.hp 			:085869257356</li>
+			<li>E-mail 			:rsn@mhs.pelitabangsa.ac.id</li>
 		</ul>
 	</div>
  <?php
